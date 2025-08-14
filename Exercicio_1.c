@@ -17,6 +17,7 @@ int main() {
 
     nascimento = 2025 - idade;
 
-    printf("Ola %s, voce tem %d anos e e nascido em %d, estando cursando %s atualmente.", nome, idade, nascimento, curso);
+    printf("Ola %s, voce tem %d anos e e nascido em %d,e esta cursando %s atualmente.", nome, idade, nascimento, curso);
 return 0;
+
 }
